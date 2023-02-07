@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐱‍💻I am currently working on red team cybersecurity project and FlipperZero Scripts<br>🏫I am currently getting a masters in cyber forensics and security with a B.S in CE<br>❓ Ask me about penetration testing and web app vulnerabilities <br>🥇Looking to expand my group of cybersecurity focused colleagues<br>
+🐱‍💻I am currently working on red team cybersecurity project and FlipperZero Scripts<br>🏫I am currently getting a masters in cyber forensics and security with a B.S in CE<br>❓ Ask me about penetration testing and web app vulnerabilities <br>🥇Looking to expand my group of cybersecurity focused colleagues and entreprenuers<br>
 
 
 ## 🌐 Socials:
