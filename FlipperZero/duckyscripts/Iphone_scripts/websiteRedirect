@@ -1,0 +1,10 @@
+REM Title: Quick Iphone Script
+REM Description: This script will navigate to the google gravity website: https://mrdoob.com/projects/chromeexperiments/google-gravity/
+REM Author: Michal Markevych
+DEFAULT_DELAY 600
+DELAY 1000
+GUI SPACE
+STRING safari
+ENTER
+STRING mrdoob.com/projects/chromeexperiments/google-gravity/
+ENTER
