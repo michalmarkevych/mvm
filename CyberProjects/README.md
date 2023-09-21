@@ -15,8 +15,5 @@ This project was about learning how the RSA Encryption algorithm works and then 
 
 Sample demonstration of code:
 
-
-![image](https://github.com/michalmarkevych/mvm/assets/77984440/b8d3b546-4182-4190-ab0f-cfc3447a29b8)
-
-
+![image](https://github.com/michalmarkevych/mvm/assets/77984440/b2517352-f1e0-49f7-9d26-3104b8e9d6df)
 
