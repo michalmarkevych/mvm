@@ -14,6 +14,8 @@ This project was about learning how the RSA Encryption algorithm works and then 
 - Decrypt.py: takes three command-line arguments as inputs: the modulus 'n', the private exponent 'd', and the encrypted message 'ciphertext'. The program returns the decrypted message as an integer, which is calculated using the pow() function. This function computes the remainder of ciphertext raised to the power of 'd' modulo 'n'.In the 'main' function, the program first checks if the correct number of command-line arguments is provided. If there are not exactly four arguments, the program prints a usage message and exits. If there are four arguments, the program parses the arguments as integers and calls the 'rsa_decrypt' function with these values. The decrypted message is then printed to the console.
 
 Sample demonstration of code:
+
+
 ![image](https://github.com/michalmarkevych/mvm/assets/77984440/b8d3b546-4182-4190-ab0f-cfc3447a29b8)
 
 
